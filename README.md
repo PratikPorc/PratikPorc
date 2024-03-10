@@ -19,4 +19,4 @@ I am actively exploring different fields within the tech industry, including:
 - 💻 Web Development
 - 🌐 And many more!
 
-Feel free to connect with me on https://www.linkedin.com/in/pratik-guha-roy-948008279/(#) and check out my projects on [GitHub](#). Let's collaborate and innovate together! 🚀
+Feel free to connect with me on [https://www.linkedin.com/in/pratik-guha-roy-948008279/](#) and check out my projects on [https://github.com/PratikPorc](#). Let's collaborate and innovate together! 🚀

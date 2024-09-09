@@ -1,4 +1,3 @@
-# WhoAmI
 # Hello, I'm Pratik! 👋
 
 I am currently pursuing B.tech in Computer Science Engineering with a specialization in Artificial Intelligence at Techno India University. I am passionate about technology and its applications, with a keen interest in various domains including Machine Learning, UI/UX, and Web Development.

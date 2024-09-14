@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pratik Guha Roy</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi!%20It's%20me%20Pratik%20🐷&animation=fadeIn&type=waving&color=gradient&height=170&section=header"/>
+</p>
+<h1 align="center">👋I'm Pratik Guha Roy</h1>
 <h3 align="center">A passionate back-end developer</h3>
+<div align="center">
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Porc was here" width="500" height="300">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikporc&label=Profile%20views&color=0e75b6&style=flat" alt="pratikporc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikporc" alt="pratikporc" /></a> </p>
@@ -38,3 +43,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikporc&show_icons=true&locale=en" alt="pratikporc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikporc&" alt="pratikporc" /></p>
+
+<div align="center">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Porc was here" width="500" height="300">
+</div>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Guha Roy</h1>
 <h3 align="center">A passionate back-end developer</h3>
-
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Porc was here" width="500" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikporc&label=Profile%20views&color=0e75b6&style=flat" alt="pratikporc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikporc" alt="pratikporc" /></a> </p>
